@@ -1,0 +1,5 @@
+com\example\opensearchdemo\service\PropertyService.class
+com\example\opensearchdemo\Application.class
+com\example\opensearchdemo\config\OpenSearchConfig.class
+com\example\opensearchdemo\controller\PropertyController.class
+com\example\opensearchdemo\dto\PropertyRequest.class
